@@ -1,35 +1,35 @@
-<h1 align="center">Hey there 👋 I'm Mayur Rathod</h1>
+<h1 align="center">Hey there ; I'm Mayur Rathod</h1>
 
 <p align="center">
   <b>Full-Stack Developer | HTML · CSS · JavaScript · Java · Python</b><br/>
-  📍 Nagpur, Maharashtra, India &nbsp;|&nbsp; 🎓 Computer Science Student &nbsp;|&nbsp; 🚀 Building real-world projects
+   Pune, Maharashtra, India &nbsp;|&nbsp; Computer Science And Business Systems Student &nbsp;|&nbsp; Building real-world projects
 </p>
 
 <p align="center">
   <a href="https://mayurrathod17.github.io/Mayur-Rathod-Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/mayur-rathod-66b6172a1" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:rathodmayur11109@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🔭 Currently building full-stack web applications and expanding into backend development
-- 🌱 Learning **React.js**, **Node.js**, and **DSA** (Data Structures & Algorithms)
-- 💡 Passionate about creating clean UIs and solving real-world problems with code
-- 🎯 Goal: Land a role at a top tech company by shipping impactful projects
-- ⚡ Fun fact: I debug best with a cup of chai ☕
+-  Currently building full-stack web applications and expanding into backend development
+-  Learning **React.js**, **Node.js**, and **DSA** (Data Structures & Algorithms)
+-  Passionate about creating clean UIs and solving real-world problems with code
+-  Goal: Land a role at a top tech company by shipping impactful projects
+-  Fun fact: I debug best with a cup of chai ☕
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -45,17 +45,17 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Tech | Live |
-|--------|-------------|------|------|
-| 🌐 [Portfolio Website](https://github.com/mayurrathod17/Mayur-Rathod-Portfolio) | Personal portfolio showcasing my work and skills | HTML, CSS, JS | [Demo](https://mayurrathod17.github.io/Mayur-Rathod-Portfolio/) |
-| 📚 [Library Management System](https://github.com/mayurrathod17/LibraryManagement) | System to manage books, members & borrowing records | Java | — |
-| 🎬 [Netflix Clone](https://github.com/mayurrathod17/Netflix-Clone) | Frontend clone of Netflix homepage | HTML, CSS | — |
+
+| [Portfolio Website](https://github.com/mayurrathod17/Mayur-Rathod-Portfolio) | Personal portfolio showcasing my work and skills | HTML, CSS, JS | [Demo](https://mayurrathod17.github.io/Mayur-Rathod-Portfolio/) |
+| [Library Management System](https://github.com/mayurrathod17/LibraryManagement) | System to manage books, members & borrowing records | Java | — |
+| [Netflix Clone](https://github.com/mayurrathod17/Netflix-Clone) | Frontend clone of Netflix homepage | HTML, CSS | — |
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mayurrathod17&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
@@ -69,7 +69,7 @@
 
 ---
 
-## 🗺️ What I'm Working On Next
+## What I'm Working On Next
 
 - [ ] Build a full-stack **Budget Tracker** app with charts and localStorage
 - [ ] Learn **React.js** and rebuild my portfolio in React
